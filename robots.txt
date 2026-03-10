@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: lab.dataology.net/al-folio/sitemap.xml
+Sitemap: lab.dataology.net/sitemap.xml
