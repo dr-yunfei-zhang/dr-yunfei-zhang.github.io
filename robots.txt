@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dr-yunfei-zhang.github.io/al-folio/sitemap.xml
+Sitemap: lab.dataology.net/al-folio/sitemap.xml
