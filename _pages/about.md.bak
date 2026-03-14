@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p>Ph.D. in Engineering</p>
+    <p>Assistant Professor</p>
+    <p>Senior Engineer</p>
 
 profile:
   align: right
