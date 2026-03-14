@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p>Ph.D. in Engineering</p>
-    <p>Assistant Professor</p>
-    <p>Senior Engineer</p>
+subtitle: <p>Ph.D. in Engineering<br>Assistant Professor<br>Senior Software Architect</p>
 
 profile:
   align: right
