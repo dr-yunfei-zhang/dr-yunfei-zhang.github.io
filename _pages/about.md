@@ -2,7 +2,7 @@
 
 layout: about;
 
-title: About;
+title: about;
 
 permalink: / subtitle: Affiliations. Address. Contacts. Motto. Etc.
 
