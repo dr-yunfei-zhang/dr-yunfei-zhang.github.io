@@ -28,14 +28,14 @@ ninja.data = [{
           description: "Academics and students engaged in our team.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/members/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-tips",
+          title: "Tips",
+          description: "Useful learning resources and tutorials.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/tips/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
