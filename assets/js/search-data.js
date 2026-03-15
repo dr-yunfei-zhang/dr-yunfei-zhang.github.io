@@ -54,22 +54,22 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "people-xing-jiang",
-          title: 'Xing JIANG',
+          title: 'Xing Jiang',
           description: "B3 @ KMU",
           section: "People",handler: () => {
               window.location.href = "/people/jiangxing/";
             },},{id: "people-qiangnan-ma",
-          title: 'Qiangnan MA',
+          title: 'Qiangnan Ma',
           description: "B3 @ KMU",
           section: "People",handler: () => {
               window.location.href = "/people/maqiangnan/";
             },},{id: "people-liang-xue",
-          title: 'Liang XUE',
+          title: 'Liang Xue',
           description: "Graduated from KMU in 2026 with a B.Sc.",
           section: "People",handler: () => {
               window.location.href = "/people/xueliang/";
             },},{id: "people-yunfei-zhang",
-          title: 'Yunfei ZHANG',
+          title: 'Yunfei Zhang',
           description: "Assistant Professor",
           section: "People",handler: () => {
               window.location.href = "/people/zhangyunfei/";
