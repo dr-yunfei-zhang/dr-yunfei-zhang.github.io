@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /people/
-title: people
+permalink: /members/
+title: Members
 description: academics and students engaged in BIG-Culture
 nav: true
 nav_order: 4
