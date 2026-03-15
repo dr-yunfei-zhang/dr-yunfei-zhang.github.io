@@ -1,12 +1,12 @@
-{% raw %}{% if site.teachings %}
+{% if site.teachings %}
   <div class="courses">
-    {% assign display_categories = "Introductory Courses|Advanced Courses" | split: "|" %}
+    {% assign courses_by_year = site.teachings | sort: 'year' | reverse | group_by: 'year' %}
 
-    {% for category in display_categories %}
-      <h2 class="year">{{ category }}</h2>
+    {% for year_group in courses_by_year %}
+      <h2 class="year">{{ year_group.name }}</h2>
       <div class="course-list">
-        {% assign category_courses = site.teachings | where: "category", category | sort: "importance" %}
-        {% for course in category_courses %}
+        {% assign year_courses = year_group.items | sort: 'term' %}
+        {% for course in year_courses %}
           <div class="course-item">
             <h3 class="course-title">
               <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
@@ -15,10 +15,6 @@
             <div class="course-meta">
               {% if course.term %}
                 <span class="course-term">{{ course.term }}</span>
-              {% endif %}
-
-              {% if course.year %}
-                <span class="course-year">{{ course.year }}</span>
               {% endif %}
 
               {% if course.instructor %}
@@ -38,4 +34,4 @@
   </div>
 {% else %}
   <p>No courses available yet.</p>
-{% endif %}{% endraw %}
+{% endif %}
