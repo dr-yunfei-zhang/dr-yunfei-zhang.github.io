@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yunfei ZHANG
+title: Yunfei Zhang
 description: Assistant Professor
 img: assets/img/people/zhangyunfei.jpg
 importance: 1

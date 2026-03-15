@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qiangnan MA
+title: Qiangnan Ma
 description: B3 @ KMU
 img: assets/img/people/maqiangnan.jpg
 importance: 1

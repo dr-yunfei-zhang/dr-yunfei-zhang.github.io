@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xing JIANG
+title: Xing Jiang
 description: B3 @ KMU
 img: assets/img/people/default.jpg
 importance: 2
