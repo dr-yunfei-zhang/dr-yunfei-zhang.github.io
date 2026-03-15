@@ -5,7 +5,7 @@ title: Members
 description: academics and students engaged in BIG-Culture
 nav: true
 nav_order: 4
-display_categories: [academics, students]
+display_categories: [Academics, Students, Alumni]
 horizontal: true
 ---
 

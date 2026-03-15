@@ -4,7 +4,7 @@ title: Pete Bennett
 description: Lecturer, interested in playful interfaces, tangible interaction and generative music.
 img: assets/img/people/bennett.gif
 importance: 1
-category: academics #academics, associates, or students
+category: Academics #academics, associates, or students
 related_publications: false
 tabs: true
 ---

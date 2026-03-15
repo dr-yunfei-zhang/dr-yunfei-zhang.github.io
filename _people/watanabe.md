@@ -4,7 +4,7 @@ title: Mamoru Watanabe
 description: PhD student at Bristol Interaction Group
 img: assets/img/people/watanabe.jpg
 importance: 5
-category: students #academics, associates, or students
+category: Alumni #academics, associates, or students
 related_publications: false
 tabs: true
 ---

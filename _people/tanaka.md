@@ -5,7 +5,7 @@ description: embodied musical interaction, human computer interaction and gestur
 img: assets/img/people/tanaka.jpg
 importance: 2
 <!--redirect: http://www.ataut.net/-->
-category: academics #academics, associates, or students
+category: Academics #academics, associates, or students
 related_publications: Telematic, Electromyogram
 ---
 
