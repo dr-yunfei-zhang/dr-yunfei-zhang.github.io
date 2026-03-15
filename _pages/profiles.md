@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: Members
-description: academics and students engaged in BIG-Culture
+description: Academics and students engaged in our team.
 nav: true
 nav_order: 4
 display_categories: [Academics, Students, Alumni]
