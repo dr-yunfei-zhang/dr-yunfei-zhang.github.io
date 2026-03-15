@@ -28,7 +28,7 @@ ninja.data = [{
           description: "academics and students engaged in BIG-Culture",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/members/";
+            window.location.href = "/people/";
           },
         },{id: "nav-cv",
           title: "CV",
