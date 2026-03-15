@@ -1,0 +1,11 @@
+---
+layout: page
+title: Liang XUE
+description: Graduated from KMU in 2026 with a B.Sc.
+img: assets/img/people/default.jpg
+importance: 1
+category: Alumni #academics, associates, or students
+related_publications: false
+tabs: true
+---
+
