@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
+        },{id: "nav-members",
+          title: "Members",
           description: "academics and students engaged in BIG-Culture",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/members/";
           },
         },{id: "nav-cv",
           title: "CV",
