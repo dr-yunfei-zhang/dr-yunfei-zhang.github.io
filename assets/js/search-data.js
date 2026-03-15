@@ -53,41 +53,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "people-pete-bennett",
-          title: 'Pete Bennett',
-          description: "Lecturer, interested in playful interfaces, tangible interaction and generative music.",
+          section: "News",},{id: "people-xing-jiang",
+          title: 'Xing JIANG',
+          description: "B3 @ KMU",
           section: "People",handler: () => {
-              window.location.href = "/people/bennett/";
-            },},{id: "people-jack-burnett",
-          title: 'Jack Burnett',
-          description: "Interactive AI CDT Student",
+              window.location.href = "/people/jiangxing/";
+            },},{id: "people-qiangnan-ma",
+          title: 'Qiangnan MA',
+          description: "B3 @ KMU",
           section: "People",handler: () => {
-              window.location.href = "/people/burnett/";
-            },},{id: "people-vishal-joshi",
-          title: 'Vishal Joshi',
-          description: "Interactive AI CDT Student",
+              window.location.href = "/people/maqiangnan/";
+            },},{id: "people-liang-xue",
+          title: 'Liang XUE',
+          description: "Graduated from KMU in 2026 with a B.Sc.",
           section: "People",handler: () => {
-              window.location.href = "/people/joshi/";
-            },},{id: "people-atau-tanaka",
-          title: 'Atau Tanaka',
-          description: "embodied musical interaction, human computer interaction and gestural computer music performance.",
+              window.location.href = "/people/xueliang/";
+            },},{id: "people-yunfei-zhang",
+          title: 'Yunfei ZHANG',
+          description: "Assistant Professor",
           section: "People",handler: () => {
-              window.location.href = "/people/tanaka/";
-            },},{id: "people-jacob-thomas",
-          title: 'Jacob Thomas',
-          description: "PhD student researching immersive arts and technologies in Bristol Interaction Group",
-          section: "People",handler: () => {
-              window.location.href = "/people/thomas/";
-            },},{id: "people-nathaniel-thorne",
-          title: 'Nathaniel Thorne',
-          description: "Immersive Arts Student",
-          section: "People",handler: () => {
-              window.location.href = "/people/thorne/";
-            },},{id: "people-mamoru-watanabe",
-          title: 'Mamoru Watanabe',
-          description: "PhD student at Bristol Interaction Group",
-          section: "People",handler: () => {
-              window.location.href = "/people/watanabe/";
+              window.location.href = "/people/zhangyunfei/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
