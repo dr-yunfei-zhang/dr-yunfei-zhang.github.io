@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-members",
           title: "Members",
-          description: "academics and students engaged in BIG-Culture",
+          description: "Academics and students engaged in our team.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
