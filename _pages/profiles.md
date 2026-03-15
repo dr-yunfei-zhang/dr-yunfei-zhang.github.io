@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /members/
 title: Members
 description: Academics and students engaged in our team.
 nav: true
