@@ -68,6 +68,11 @@ ninja.data = [{
           description: "Graduated from KMU in 2026 with a B.Sc.",
           section: "People",handler: () => {
               window.location.href = "/people/xueliang/";
+            },},{id: "people-ruisi-yang",
+          title: 'Ruisi Yang',
+          description: "B4 @ UM",
+          section: "People",handler: () => {
+              window.location.href = "/people/yangruisi/";
             },},{id: "people-yunfei-zhang",
           title: 'Yunfei Zhang',
           description: "Assistant Professor",
