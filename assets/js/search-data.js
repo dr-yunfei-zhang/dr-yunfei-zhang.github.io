@@ -70,7 +70,7 @@ ninja.data = [{
               window.location.href = "/people/xueliang/";
             },},{id: "people-ruisi-yang",
           title: 'Ruisi Yang',
-          description: "B4 @ UM",
+          description: "B3 @ UM",
           section: "People",handler: () => {
               window.location.href = "/people/yangruisi/";
             },},{id: "people-yunfei-zhang",
