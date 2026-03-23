@@ -8,7 +8,7 @@ description: Useful learning resources and tutorials.
 ---
 
 
-### 🧠 Research
+### 🔬 Research
 
 - [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/) — [David A. Patterson](https://www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html)
 - [PhDs from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext) — [Jason Hong](http://www.cs.cmu.edu/~jasonh/)
@@ -31,10 +31,10 @@ description: Useful learning resources and tutorials.
 ### 🧾 Review
 
 - [How to Write a DAC Paper Review](http://vlsicad.ucsd.edu/~abk/dacreviews.html) — [Andrew B. Kahng](http://vlsicad.ucsd.edu/~abk/)
-- [How to Be a Good Reviewer](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf) — CVPR 2022 Program Chairs
+- [How to Be a Good Reviewer — CVPR 2022 Program Chairs](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
 
 
-### 🏆 Conference / Journal Rankings
+### 📊 Conference / Journal Rankings
 
 As a reference, here I list some conference and journal rankings, especially for computer science and related fields.
 
