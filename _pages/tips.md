@@ -34,11 +34,11 @@ description: Useful learning resources and tutorials.
 - [How to Be a Good Reviewer — CVPR 2022 Program Chairs](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
 
 
-### 📊 Conference / Journal Rankings
+### 📊 Conference and Journal Rankings
 
 As a reference, here I list some conference and journal rankings, especially for computer science and related fields.
 
-- [CSRankings](http://csrankings.org/#/index?da&world)
+- [CS Rankings](http://csrankings.org/#/index?da&world)
 - [CCF Ranking](https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/)
 - [Google Scholar Rankings](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computerhardwaredesign)
 
