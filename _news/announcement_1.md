@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-12-18 12:00:00-0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🎉 One paper by **Yunfei Zhang** has been published in *Knowledge and Information Systems*.

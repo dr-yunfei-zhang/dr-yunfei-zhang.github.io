@@ -8,6 +8,4 @@ nav_order: 3
 calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. 
-
 {% include courses.liquid %}
