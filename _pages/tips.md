@@ -36,8 +36,6 @@ description: Useful learning resources and tutorials.
 
 ### 📊 Conference and Journal Rankings
 
-As a reference, here I list some conference and journal rankings, especially for computer science and related fields.
-
 - [CS Rankings](http://csrankings.org/#/index?da&world)
 - [CCF Ranking](https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/)
 - [Google Scholar Rankings](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computerhardwaredesign)
