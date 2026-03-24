@@ -286,8 +286,8 @@ display_categories: [ "external-services" ] # these categories will be displayed
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [ Einstein ]
-  first_name: [ Albert, A. ]
+  last_name: [ Yunfei ]
+  first_name: [ Zhang ]
 
   style: apa
   locale: en
@@ -302,6 +302,8 @@ scholar:
 
   replace_strings: true
   join_strings: true
+  
+  max_author_list: 8
 
   details_dir: bibliography
   details_link: Details
