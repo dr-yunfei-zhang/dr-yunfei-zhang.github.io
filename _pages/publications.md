@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: publications by categories in reversed chronological order. 
+description: Only publications where lab members are first or corresponding authors are listed.
 nav: true
 nav_order: 2
 ---
