@@ -286,8 +286,8 @@ display_categories: [ "external-services" ] # these categories will be displayed
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Yunfei]
-  first_name: [Zhang]
+  last_name: [Zhang]
+  first_name: [Yunfei]
 
   style: apa
   locale: en
