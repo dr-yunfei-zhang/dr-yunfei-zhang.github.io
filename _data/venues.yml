@@ -1,20 +1,20 @@
-KAIS:
-  color: "#2ecc71"   # 绿色（期刊）
+"KAIS":
+  color: "#2ecc71"
   url: https://link.springer.com/journal/10115
 
-NCA:
-  color: "#2ecc71"   # 绿色（期刊）
+"NCA":
+  color: "#2ecc71"
   url: https://link.springer.com/journal/521
 
-FCST:
-  color: "#2ecc71"   # 绿色（期刊）
+"FCST":
+  color: "#2ecc71"
   url: http://fcst.ceaj.org/EN/1673-9418/home.shtml
 
-MLPRAE:
-  color: "#3498db"   # 蓝色（会议）
+"MLPRAE":
+  color: "#3498db"
 
-Book:
-  color: "#9b59b6"   # 紫色（书籍）
+"Book":
+  color: "#9b59b6"
 
-Patent:
-  color: "#e67e22"   # 橙色（专利）
+"Patent":
+  color: "#e67e22"
