@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "Only publications where lab members are first or corresponding authors are listed.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
