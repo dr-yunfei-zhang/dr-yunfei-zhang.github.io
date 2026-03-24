@@ -1,0 +1,79 @@
+---
+---
+
+@article{aamylsd2023,
+  abbr    = {Patent},
+  title   = {An Automatic Annotation Method for Yi Language Speech Data},
+  author  = {Jun He and Caiqing Zhang and Yifang Zhou and Muquan Zou and Yunfei Zhang},
+  journal = {Chinese Invention Patent},  
+  year    = {2023},
+  month    = {6},
+  type    = {patent},
+
+  preview  = {aamylsd2023.png}
+  
+
+}
+
+@article{ihinsnbgcn2024,
+  abbr        = {MLPRAE},
+  title       = {Identifying High Influential Nodes in Social Networks Based on GCN},
+  author      = {Bo Yu and Ruisi Yang and Liang Xue and Qiang Yue and Yunfei Zhang*},
+  journal   = {Proceedings of the International Conference on Machine Learning, Pattern Recognition and Automation Engineering},
+  year        = {2024},
+  month    = {10},
+
+  type        = {conference},
+
+  preview     = {ihinsnbgcn2024.png}  
+}
+
+@article{fis2022,
+  abbr      = {Book},
+  title     = {Fundamentals of Information Science},
+  author    = {Xi Zhou and Jihua Huang and Jiang Zou and Xin Ren and Ling Li and Yunfei Zhang},
+  journal = {Higher Education Press},
+  year      = {2022},
+  month    = {2},
+
+  type      = {book},
+  preview   = {fis2022.png}
+
+}
+
+@article{immcip2018,
+  abbr    = {FCST},
+  title   = {Influence Maximization Methods of Correlated Information Propagation},
+  author  = {Yunfei Zhang and Jin Li* and Kun Yue and Zhihao Luo and Weiyi Liu},
+  journal = {Journal of Frontiers of Computer Science and Technology},
+  year    = {2018},
+  month    = {12},
+
+  type    = {journal},
+  preview = {immcip2018.png}
+
+}
+
+@article{cdsnrmoonc2020,
+  abbr    = {NCA},
+  title   = {Community Detection in Signed Networks by Relaxing Modularity Optimization with Orthogonal and Nonnegative Constraints},
+  author  = {Yunfei Zhang and Yuyan Liu and Xiaomeng Ma* and Jie Song},
+  journal = {Neural Computing and Applications},
+  year    = {2020},
+  month    = {7},
+
+
+  type    = {journal},
+  preview = {cdsnrmoonc2020.png}
+}
+
+@article{ccipm2025,
+  abbr    = {KAIS},
+  title   = {Community-Level Competitive Influence Payoff Maximization},
+  author  = {Yunfei Zhang and Jun Yu and Chunzhi Gu and Takuya Akashi and Chao Zhang*},
+  journal = {Knowledge and Information Systems},
+  year    = {2025},
+  month    = {12},
+  type    = {journal}, 
+  preview = {ccipm2025.png}
+}
