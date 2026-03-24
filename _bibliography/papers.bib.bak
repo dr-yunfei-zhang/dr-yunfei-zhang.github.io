@@ -9,7 +9,6 @@
   year    = {2023},
   month    = {6},
   type    = {patent},
-
   preview  = {aamylsd2023.png}
   
 
@@ -22,9 +21,6 @@
   journal   = {Proceedings of the International Conference on Machine Learning, Pattern Recognition and Automation Engineering},
   year        = {2024},
   month    = {10},
-
-  type        = {conference},
-
   preview     = {ihinsnbgcn2024.png}  
 }
 
@@ -35,8 +31,6 @@
   journal = {Higher Education Press},
   year      = {2022},
   month    = {2},
-
-  type      = {book},
   preview   = {fis2022.png}
 
 }
@@ -48,10 +42,7 @@
   journal = {Journal of Frontiers of Computer Science and Technology},
   year    = {2018},
   month    = {12},
-
-  type    = {journal},
   preview = {immcip2018.png}
-
 }
 
 @article{cdsnrmoonc2020,
@@ -61,9 +52,6 @@
   journal = {Neural Computing and Applications},
   year    = {2020},
   month    = {7},
-
-
-  type    = {journal},
   preview = {cdsnrmoonc2020.png}
 }
 
@@ -74,6 +62,5 @@
   journal = {Knowledge and Information Systems},
   year    = {2025},
   month    = {12},
-  type    = {journal}, 
   preview = {ccipm2025.png}
 }
