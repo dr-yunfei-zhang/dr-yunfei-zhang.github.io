@@ -6,7 +6,7 @@ subtitle: <p>Ph.D. in Engineering<br>Assistant Professor<br>Senior Software Arch
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: icon.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: dr.yunfei.zhang@gmail.com</p>
