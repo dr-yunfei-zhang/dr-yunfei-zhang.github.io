@@ -55,11 +55,26 @@ ninja.data = [{
           description: "B3 @ KMU",
           section: "People",handler: () => {
               window.location.href = "/people/maqiangnan/";
+            },},{id: "people-rongxi-ni",
+          title: 'Rongxi Ni',
+          description: "B1 @ KMU",
+          section: "People",handler: () => {
+              window.location.href = "/people/nirongxi/";
+            },},{id: "people-guixiong-wu",
+          title: 'Guixiong Wu',
+          description: "B1 @ KMU",
+          section: "People",handler: () => {
+              window.location.href = "/people/wuguixiong/";
             },},{id: "people-liang-xue",
           title: 'Liang Xue',
           description: "Graduated from KMU in 2026 with a B.Sc.",
           section: "People",handler: () => {
               window.location.href = "/people/xueliang/";
+            },},{id: "people-ziwen-xu",
+          title: 'Ziwen Xu',
+          description: "B1 @ KMU",
+          section: "People",handler: () => {
+              window.location.href = "/people/xuziwen/";
             },},{id: "people-ruisi-yang",
           title: 'Ruisi Yang',
           description: "B3 @ UM",
